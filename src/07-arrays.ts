@@ -32,6 +32,6 @@
     let numbers = [1,2,2,1,1,1,212];
 
     numbers.map(item => item * 2);
-    
+
 
 })()
